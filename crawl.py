@@ -1,6 +1,6 @@
 #--encoding=utf8
 #! /usr/bin/python
-__author__ = 'wangtao'
+__author__ = 'huosan'
 
 import StringIO
 import re
